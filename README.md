@@ -4,4 +4,4 @@ Expedia is a mobile application focusing on package delivery services. This proj
 
 Created an Entity Relationship Diagram and utilized SQL to view the flow of the running system in tracking package delivery.
 
-Expedia report is provided in Indonesian language.
+Expedia Report is provided in Indonesian language.
